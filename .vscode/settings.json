@@ -1,0 +1,5 @@
+{
+    "fileheader.Author": "wacat",
+    "fileheader.LastModifiedBy": "wacat",
+    "fileheader.tpl": "# -*- coding: utf-8 -*- \\n# @Author: {author}  \\n# @Date: {createTime}  \\n# @Last Modified by:   {lastModifiedBy}  \\n# @Last Modified time: {updateTime}"
+}
